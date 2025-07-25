@@ -10,5 +10,5 @@ A Discord bot that implements a `/chat` slash command, forwarding prompts to Ope
 ## Local Setup
 1. Clone this repo
    ```bash
-git clone https://github.com/your-repo/discord-gpt4o-bot.git
+git clone https://github.com/BriteEnceladus/discordgpt4.0_britee
 cd discord-gpt4o-bot
